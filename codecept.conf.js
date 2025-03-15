@@ -19,6 +19,7 @@ exports.config = {
   },
   include: {
     I: './steps_file.js',
+    LoginPage: './pages/LoginPage.js',
   },
   name: 'udemy-playwright-bdd-codeceptjs',
   plugins: {
