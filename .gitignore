@@ -1,0 +1,8 @@
+node_modules/
+bin/
+obj/
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
